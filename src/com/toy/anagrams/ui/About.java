@@ -81,7 +81,7 @@ public class About extends JDialog {
         copyrightTextArea.setColumns(25);
         copyrightTextArea.setLineWrap(true);
         copyrightTextArea.setRows(8);
-        copyrightTextArea.setText("俺のアナグラム\n\nCopyright (c) 2014  Irritable Enterprises, ao, Inc.\n\n");
+        copyrightTextArea.setText("俺のアナグラム\n使ってみてね\nCopyright (c) 2014  Irritable Enterprises, ao, Inc.\n\n");
         copyrightTextArea.setWrapStyleWord(true);
         copyrightTextArea.setBorder(null);
         copyrightTextArea.setFocusable(false);
